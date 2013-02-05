@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Atmel!</string>
+    <string name="app_name">Atmel</string>
+<string name="Atmel_URL">http://www.atmel.com</string>
+</resources>
